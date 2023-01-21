@@ -2,7 +2,7 @@ import { WechatyBuilder } from "wechaty";
 import { Message } from "wechaty"
 import QRCode from "qrcode";
 
-const keywords = ['过年好', '新年', '春节']
+const keywords = ['年', '春节']
 
 const luckMessage = [
   '愿你有小茶碗也有红酒杯，生活里有热汤也有甜酒，所遇皆欢喜，所得皆如愿。',
